@@ -1,1 +1,2 @@
-This is the description of my repo 
+This is a Git project to ptactice merging branches.
+Modification in main branch.
